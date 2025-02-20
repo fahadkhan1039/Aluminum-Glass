@@ -10,22 +10,22 @@ date_default_timezone_set("Asia/Karachi");
 
 $env=array(
     "ENV_TYPE"=>"production", // local or production
-    "SITE_NAME"=>"Site Name",
+    "SITE_NAME"=>"SKaluandglass",
     "DESCRIPTION"=>"description",
     "KEYWORDS"=>"keywords",
-    "APP_URL"=> "https://domain.local/",
-    "ADMIN_EMAIL"=> "info@domain.com",
+    "APP_URL"=> "https://aluminum.local/",
+    "ADMIN_EMAIL"=> "saeedglass009@gmail.com",
 
     //PRODUCTION DATABASE CREDENTIALS
     "DATABASE_HOST"=>"localhost",
-    "DATABASE_NAME"=>"qq",
+    "DATABASE_NAME"=>"aluminum",
     "DATABASE_USERNAME"=>"root",
     "DATABASE_PASSWORD"=>"root",
 
 
     //LOCAL DATABASE CREDENTIALS
     "LC_DATABASE_HOST"=>"localhost",
-    "LC_DATABASE_NAME"=>"mcqs",
+    "LC_DATABASE_NAME"=>"aluminum",
     "LC_DATABASE_USERNAME"=>"root",
     "LC_DATABASE_PASSWORD"=>"root",
 
